@@ -1,0 +1,18 @@
+{
+  "name": "practice_one/practice_one",
+  "type": "project",
+  "description": "",
+  "keywords": [],
+  "license": "",
+  "require": {
+
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "APP\\": "app//"
+    }
+  }
+}
